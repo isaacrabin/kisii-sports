@@ -30,9 +30,33 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/fonts/icomoon/style.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/jquery-ui.css",
+              "src/assets/css/owl.carousel.min.css",
+              "src/assets/css/owl.theme.default.min.css",
+              "src/assets/css/aos.css",
+              "src/assets/css/style.css",
+              "src/assets/scss/style.scss",
+              "node_modules/animate.css/animate.min.css",
+                "node_modules/font-awesome/css/font-awesome.css"
+
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery-3.3.1.min.js",
+              "src/assets/js/jquery-migrate-3.0.1.min.js",
+              "src/assets/js/jquery-ui.js",
+              "src/assets/js/popper.min.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/owl.carousel.min.js",
+              "src/assets/js/jquery.stellar.min.js",
+              "src/assets/js/jquery.countdown.min.js",
+              "src/assets/js/jquery.magnific-popup.min.js",
+              "src/assets/js/aos.js",
+              "src/assets/js/main.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -90,9 +114,34 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/fonts/icomoon/style.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/jquery-ui.css",
+              "src/assets/css/owl.carousel.min.css",
+              "src/assets/css/owl.theme.default.min.css",
+              "src/assets/css/aos.css",
+              "src/assets/css/style.css",
+              "src/assets/scss/style.scss",
+              "node_modules/animate.css/animate.min.css",
+                "node_modules/font-awesome/css/font-awesome.css"
+
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery-3.3.1.min.js",
+              "src/assets/js/jquery-migrate-3.0.1.min.js",
+              "src/assets/js/jquery-ui.js",
+              "src/assets/js/popper.min.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/owl.carousel.min.js",
+              "src/assets/js/jquery.stellar.min.js",
+              "src/assets/js/jquery.countdown.min.js",
+              "src/assets/js/jquery.magnific-popup.min.js",
+              "src/assets/js/aos.js",
+              "src/assets/js/main.js"
+
+            ]
           }
         }
       }

@@ -6,11 +6,11 @@ body {
 	// font-size: 16px;
 	font-size: $font-size-base + .1rem;
 }
-::-moz-selection { 
+::-moz-selection {
 	background: $black;
 	color: $white;
 }
-::selection { 
+::selection {
 	background: $black;
 	color: $white;
 }
@@ -48,7 +48,7 @@ a {
 		width: 100%;
 		z-index: 2;
 		overflow: hidden;
-		
+
 		&:before {
 			opacity: 1;
 			visibility: visible;
@@ -82,7 +82,7 @@ a {
 		box-shadow: 0 5px 20px -7px rgba(0,0,0,.9)!important;
 		top: -2px;
 	}
-	
+
 }
 
 .bg-black {
@@ -132,9 +132,9 @@ a {
 			width: 40px;
 			height: 2px;
 			background: $primary;
-		}	
+		}
 	}
-	
+
 }
 
 .border-top {
@@ -145,15 +145,15 @@ a {
 	padding: 4em 0;
 	background: lighten($black, 20%);
 	p {
-		color: lighten($black, 45%); 
+		color: lighten($black, 45%);
 	}
 	h2,h3,h4,h5 {
 		color: $white;
 	}
 	a {
-		color: lighten($black, 60%); 
+		color: lighten($black, 60%);
 		&:hover {
-			color: lighten($black, 100%); 
+			color: lighten($black, 100%);
 		}
 	}
 	ul {
@@ -169,7 +169,7 @@ a {
 
 .bg-text-line {
   display: inline;
-  background: $black;
+  background:#EDFBE2;
   box-shadow: 20px 0 0 $black, -20px 0 0 $black;
 }
 
