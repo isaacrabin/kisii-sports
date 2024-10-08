@@ -101,7 +101,7 @@ a {
 .site-section {
 	padding: 2.5em 0;
 	@include media-breakpoint-up(md) {
-		padding: 5em 0;
+		padding: 2.5em 0;
 	}
 
 	&.site-section-sm {
@@ -170,7 +170,8 @@ a {
 .bg-text-line {
   display: inline;
   background:#EDFBE2;
-  box-shadow: 20px 0 0 $black, -20px 0 0 $black;
+  padding: 10px 10px 0px 10px;
+  // box-shadow: 20px 0 0 $black, -20px 0 0 $black;
 }
 
 .bg-image {

@@ -5,6 +5,7 @@ import { AboutComponent } from './about/about.component';
 import { MembershipComponent } from './membership/membership.component';
 import { AmenitiesComponent } from './amenities/amenities.component';
 import { ContactUsComponent } from './contact-us/contact-us.component';
+import { GolfComponent } from './golf/golf.component';
 
 export const routes: Routes = [
   {
@@ -18,6 +19,10 @@ export const routes: Routes = [
   {
     path: 'about',
     component:AboutComponent
+  },
+  {
+    path: 'golf',
+    component:GolfComponent
   },
   {
     path: 'membership',

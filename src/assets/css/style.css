@@ -196,9 +196,9 @@ a:hover {
 
 .bg-text-line {
   display: inline;
-  background: #000;
-  -webkit-box-shadow: 20px 0 0 #000, -20px 0 0 #000;
-  box-shadow: 20px 0 0 #000, -20px 0 0 #000;
+  /* background: #000; */
+  /* -webkit-box-shadow: 20px 0 0 #000, -20px 0 0 #000; */
+  /* box-shadow: 20px 0 0 #000, -20px 0 0 #000; */
 }
 
 .bg-image {
