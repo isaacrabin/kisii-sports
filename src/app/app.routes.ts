@@ -35,5 +35,10 @@ export const routes: Routes = [
   {
     path: 'contact-us',
     component:ContactUsComponent
+  },
+  {
+    path: '*',
+    loadChildren: () => import('./home/home.module').then(m => m.HomeModule)
   }
+
 ];
